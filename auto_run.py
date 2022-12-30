@@ -1,0 +1,1 @@
+import auto_script.send_to_db

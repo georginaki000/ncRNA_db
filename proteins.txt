@@ -1,0 +1,9 @@
+CREATE TABLE `proteins`(
+       `uniprot_entry` varchar(50) NOT NULL,
+       `entry_name` varchar(50) NOT NULL,
+       `protein_name` TEXT NOT NULL,
+       `organism` varchar(50) NOT NULL,
+       `aminoacid_sequence` TEXT NOT NULL,
+PRIMARY KEY(`uniprot_entry`)
+) ENGINE=INNODB
+

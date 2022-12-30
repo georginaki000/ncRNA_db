@@ -1,0 +1,536 @@
+Homo sapiens microRNA mir-590
+Homo sapiens microRNA mir-500
+Homo sapiens microRNA mir-361
+Homo sapiens microRNA mir-1207
+Homo sapiens Small nucleolar RNA SNORD37
+Homo sapiens Small nucleolar RNA SNORD51
+Homo sapiens microRNA mir-589
+Homo sapiens microRNA mir-584
+Homo sapiens microRNA mir-1280
+Homo sapiens Small nucleolar RNA ZL8
+Homo sapiens Small nucleolar RNA SNORD15
+Homo sapiens microRNA mir-33
+Homo sapiens microRNA mir-182
+Homo sapiens Small nucleolar RNA SNORA53
+Homo sapiens Small nucleolar RNA SNORA65
+Homo sapiens Small Cajal body specific RNA 11
+Homo sapiens microRNA mir-938
+Homo sapiens Small nucleolar RNA SNORD69
+Homo sapiens microRNA mir-770
+Homo sapiens Small nucleolar RNA SNORD121A
+Homo sapiens Small nucleolar RNA SNORD5
+Homo sapiens microRNA mir-761
+Homo sapiens microRNA mir-155
+Homo sapiens Small nucleolar RNA SNORA30/SNORA37 family
+Homo sapiens microRNA mir-207
+Homo sapiens microRNA mir-335
+Homo sapiens microRNA mir-322
+Homo sapiens Small nucleolar RNA SNORA68
+Homo sapiens mir-29 microRNA precursor
+Homo sapiens microRNA mir-633
+Home sapiens tRNA
+Homo sapiens Small nucleolar RNA U2-30
+Homo sapiens Selenocysteine transfer RNA
+Homo sapiens microRNA mir-576
+Homo sapiens microRNA mir-149
+Homo sapiens microRNA mir-340
+Homo sapiens Small nucleolar RNA SNORD67
+Homo sapiens Small nucleolar RNA SNORA22
+Homo sapiens Small nucleolar RNA SNORD28
+Home sapiens 5S ribosomal RNA
+Homo sapiens microRNA mir-298
+Homo sapiens microRNA mir-671
+Homo sapiens microRNA mir-22
+Homo sapiens Small nucleolar RNA SNORD112
+Homo sapiens Mnt IRES
+Homo sapiens microRNA mir-1226
+Homo sapiens microRNA mir-554
+Homo sapiens microRNA mir-498
+Homo sapiens microRNA mir-649
+Homo sapiens GRIK4 3 prime UTR element
+Homo sapiens Cyp24a1 internal ribosome entry site (IRES)
+Homo sapiens microRNA mir-330
+Homo sapiens Small nucleolar RNA SNORA55
+Homo sapiens microRNA mir-221
+Homo sapiens Small nucleolar RNA SNORD47
+Homo sapiens Small nucleolar RNA U13
+Homo sapiens microRNA mir-582
+Homo sapiens microRNA mir-600
+Homo sapiens Small nucleolar RNA SNORA64/SNORA10 family
+Homo sapiens microRNA mir-597
+Homo sapiens Small nucleolar RNA SNORD93
+Homo sapiens Small nucleolar RNA SNORD99
+Homo sapiens Small Cajal body specific RNA 20
+Homo sapiens microRNA mir-541
+Homo sapiens Small nucleolar RNA SNORA14
+Homo sapiens Small nucleolar RNA SNORD17
+Homo sapiens microRNA mir-140
+Homo sapiens Small nucleolar RNA snR60/Z15/Z230/Z193/J17
+Homo sapiens microRNA mir-331
+Homo sapiens Small nucleolar RNA SNORD108
+Homo sapiens microRNA mir-572
+Homo sapiens microRNA mir-581
+Homo sapiens Small nucleolar RNA SNORA25
+Homo sapiens Small nucleolar RNA SNORA75
+Homo sapiens microRNA mir-296
+Homo sapiens microRNA mir-621
+Homo sapiens microRNA mir-374
+Homo sapiens microRNA mir-1208
+Homo sapiens microRNA mir-350
+Homo sapiens microRNA mir-23
+Homo sapiens microRNA mir-665
+Homo sapiens microRNA mir-937
+Homo sapiens microRNA mir-711
+Homo sapiens mir-17 microRNA precursor family
+Homo sapiens mir-34 microRNA precursor family
+Homo sapiens Small nucleolar RNA ZL2
+Homo sapiens mir-218 microRNA precursor family
+Homo sapiens microRNA mir-486
+Homo sapiens microRNA mir-638
+Homo sapiens microRNA mir-580
+Homo sapiens microRNA mir-205
+Homo sapiens Small Nucleolar RNA SNORD64
+Homo sapiens microRNA mir-204
+Homo sapiens Small nucleolar RNA SNORA61
+Homo sapiens microRNA mir-609
+Homo sapiens microRNA mir-1912
+Homo sapiens microRNA mir-552
+Homo sapiens Small nucleolar RNA SNORD48
+Homo sapiens microRNA mir-BART3
+Homo sapiens Small nucleolar RNA SNORA21
+Homo sapiens Small nucleolar RNA SNORD70
+Homo sapiens Small nucleolar RNA SNORD19
+Homo sapiens Small nucleolar RNA SNORD77
+Homo sapiens U8 small nucleolar RNA
+Homo sapiens Small nucleolar RNA SNORD52
+Homo sapiens Small nucleolar RNA SNORA74
+Homo sapiens microRNA mir-431
+Homo sapiens microRNA mir-942
+Homo sapiens microRNA mir-675
+Homo sapiens microRNA mir-187
+Homo sapiens Small nucleolar RNA SNORA44
+Homo sapiens microRNA mir-875
+Homo sapiens microRNA mir-924
+Homo sapiens Small nucleolar RNA U6-53/MBII-28
+Homo sapiens microRNA mir-370
+Homo sapiens microRNA mir-198
+Home sapiens U2 spliceosomal RNA
+Homo sapiens microRNA mir-132
+Homo sapiens microRNA mir-142
+Homo sapiens Small nucleolar RNA SNORD44
+Homo sapiens mir-2985-2 microRNA precursor
+Homo sapiens Small nucleolar RNA SNORA58
+Homo sapiens microRNA mir-491
+Homo sapiens Small nucleolar SNORD12/SNORD106
+Homo sapiens Small nucleolar RNA SNORA3/SNORA45 family
+Homo sapiens Small nucleolar RNA SNORA50
+Homo sapiens microRNA mir-299
+Homo sapiens microRNA MIR480
+Homo sapiens microRNA mir-223
+Homo sapiens Voltage-gated potassium-channel Kv1.4 IRES
+Homo sapiens Small nucleolar RNA SNORA73 family
+Homo sapiens mir-19 microRNA precursor family
+Homo sapiens Small nucleolar RNA U109
+Homo sapiens Small nucleolar RNA SNORA77
+hairpin
+Homo sapiens Small nucleolar RNA SNORD90
+Homo sapiens mir-133 microRNA precursor family
+Homo sapiens microRNA mir-632
+Homo sapiens microRNA mir-143
+Homo sapiens Small Cajal body specific RNA 3
+Homo sapiens microRNA MIR1122
+Homo sapiens microRNA mir-432
+Homo sapiens Small nucleolar RNA SNORA9
+Homo sapiens microRNA mir-127
+Homo sapiens Small nucleolar RNA SNORA49
+Homo sapiens Small nucleolar RNA SNORD94
+Homo sapiens microRNA mir-644
+Homo sapiens Small nucleolar RNA SNORD30
+Homo sapiens Nrf2 internal ribosome entry site (IRES)
+Homo sapiens microRNA mir-506
+Homo sapiens mir-181 microRNA precursor
+Homo sapiens microRNA mir-412
+Homo sapiens Small nucleolar RNA SNORA67
+Homo sapiens Metazoan signal recognition particle RNA
+Homo sapiens Small nucleolar RNA ACA59
+Homo sapiens microRNA mir-153
+Homo sapiens mir-122 microRNA precursor
+Homo sapiens Small nucleolar RNA U89
+Homo sapiens mir-219 microRNA precursor family
+Homo sapiens microRNA mir-1224
+Homo sapiens Small nucleolar RNA SNORD74
+Homo sapiens mir-7 microRNA precursor
+Homo sapiens microRNA mir-553
+Homo sapiens microRNA mir-422
+Homo sapiens microRNA mir-549
+Homo sapiens microRNA mir-1255
+Homo sapiens microRNA mir-337
+Homo sapiens microRNA mir-574
+Homo sapiens Small nucleolar RNA SNORA40
+Homo sapiens microRNA mir-27
+Homo sapiens microRNA mir-136
+Homo sapiens microRNA mir-210
+Homo sapiens Small nucleolar RNA SNORA62/SNORA6 family
+Homo sapiens microRNA mir-662
+Homo sapiens Small nucleolar RNA Z40
+Homo sapiens microRNA mir-550
+Homo sapiens Small nucleolar RNA U82P
+Homo sapiens Small Cajal body-specific RNA 7
+Homo sapiens Small nucleolar RNA SNORD22
+Homo sapiens microRNA mir-504
+Homo sapiens Small Cajal body specific RNA 8
+Homo sapiens microRNA mir-345
+Homo sapiens microRNA mir-489
+Homo sapiens microRNA mir-31
+Homo sapiens microRNA mir-154
+Homo sapiens microRNA mir-936
+Homo sapiens microRNA mir-203
+Homo sapiens NoRC associated RNA  pRNA
+Homo sapiens mir-148/mir-152 microRNA precursor family
+Homo sapiens Small nucleolar RNA Z17
+Homo sapiens Small nucleolar RNA SNORA4
+Homo sapiens microRNA mir-551
+Homo sapiens Small nucleolar RNA SNORA29
+Homo sapiens mir-135 microRNA precursor family
+Homo sapiens microRNA mir-604
+Homo sapiens microRNA mir-186
+Homo sapiens Small nucleolar RNA SNORA23
+Homo sapiens microRNA mir-618
+Homo sapiens Small nucleolar RNA SNORD19B
+Homo sapiens microRNA mir-433
+Homo sapiens Small nucleolar RNA SNORA27
+Homo sapiens microRNA mir-944
+Homo sapiens microRNA mir-451
+Homo sapiens microRNA mir-3179
+Homo sapiens Small Cajal body specific RNA 14
+Homo sapiens Small nucleolar RNA SNORA46
+Homo sapiens APC internal ribosome entry site (IRES)
+Homo sapiens microRNA mir-448
+Homo sapiens microRNA mir-208
+Homo sapiens Small nucleolar RNA SNORD60
+Homo sapiens microRNA mir-505
+Homo sapiens Small nucleolar RNA SNORD18
+Homo sapiens microRNA mir-1253
+Homo sapiens microRNA mir-338
+Homo sapiens microRNA mir-488
+Homo sapiens Small nucleolar RNA SNORA13
+Homo sapiens microRNA mir-616
+Homo sapiens microRNA mir-139
+Homo sapiens Hammerhead ribozyme HH10
+Homo sapiens Small nucleolar RNA SNORD104
+Homo sapiens microRNA mir-105
+Homo sapiens microRNA mir-499
+Homo sapiens Small nucleolar RNA SNORD10
+Homo sapiens microRNA mir-365
+Homo sapiens Small nucleolar RNA SNORD36
+Homo sapiens microRNA mir-224
+Homo sapiens TrkB IRES
+Homo sapiens Small nucleolar RNA SNORD11
+Homo sapiens microRNA mir-137
+Homo sapiens HIF-1 alpha IRES
+Homo sapiens microRNA mir-598
+Homo sapiens Small Cajal body specific RNA 21
+Homo sapiens microRNA mir-626
+Homo sapiens microRNA mir-605
+Homo sapiens Small nucleolar RNA SNORD127
+Homo sapiens Small nucleolar RNA SNORD14
+Homo sapiens microRNA mir-515
+Homo sapiens microRNA mir-676
+Homo sapiens Small nucleolar RNA SNORA71
+Homo sapiens Small nucleolar RNA SNORA69
+Homo sapiens Small Cajal body-specific RNA 2
+Homo sapiens Small Cajal body specific RNA 6
+Homo sapiens Small nucleolar RNA ZL1
+Homo sapiens microRNA mir-558
+trf
+Homo sapiens L-myc internal ribosome entry site (IRES)
+Homo sapiens microRNA mir-202
+Homo sapiens Small Cajal body specific RNA 4
+Homo sapiens microRNA mir-567
+Homo sapiens ncRNA Repressor of NFAT (nuclear factor of activated T cells)
+Homo sapiens microRNA mir-144
+Homo sapiens microRNA mir-592
+Homo sapiens mir-1 microRNA precursor family
+Homo sapiens Small nucleolar RNA SNORA19
+Homo sapiens small Cajal body-specific RNA 18
+Homo sapiens Small nucleolar RNA SNORD98
+Homo sapiens mir-124 microRNA precursor family
+Homo sapiens Bacterial large subunit ribosomal RNA
+Homo sapiens Eukaryotic small subunit ribosomal RNA
+Homo sapiens Small Cajal body specific RNA 23
+Homo sapiens microRNA mir-455
+Homo sapiens microRNA mir-1307
+Homo sapiens microRNA mir-147
+Homo sapiens Small nucleolar RNA SNORD78
+Homo sapiens microRNA mir-1178
+Homo sapiens microRNA mir-639
+Homo sapiens microRNA mir-342
+Homo sapiens microRNA mir-631
+Homo sapiens microRNA mir-578
+Homo sapiens microRNA mir-191
+Homo sapiens Small nucleolar RNA SNORA33
+Homo sapiens U11 spliceosomal RNA
+Homo sapiens microRNA mir-593
+Homo sapiens microRNA mir-216
+Home sapiens 5.8S ribosomal RNA
+Homo sapiens Connexin-32 internal ribosome entry site (IRES)
+Homo sapiens microRNA mir-279
+Homo sapiens microRNA mir-503
+Homo sapiens Small nucleolar RNA SNORA32
+Homo sapiens Small nucleolar RNA SNORD75
+Homo sapiens U5 spliceosomal RNA
+Homo sapiens U7 small nuclear RNA
+Homo sapiens Beta-globin co-transcriptional cleavage ribozyme
+Homo sapiens microRNA mir-383
+Homo sapiens microRNA mir-548
+Homo sapiens microRNA mir-290
+Homo sapiens ODC internal ribosome entry site (IRES)
+Homo sapiens Small nucleolar RNA SNORD41
+Homo sapiens mir-16 microRNA precursor family
+Homo sapiens microRNA mir-562
+Homo sapiens Small nucleolar RNA SNORA51
+Homo sapiens microRNA mir-642
+Homo sapiens Small nucleolar RNA SNORD86
+Homo sapiens Small nucleolar RNA SNORD61
+Homo sapiens mir-10 microRNA precursor family
+Homo sapiens U6 spliceosomal RNA
+Homo sapiens Small nucleolar RNA SNORA5
+Homo sapiens Small nucleolar RNA SNORD105
+Homo sapiens Nuclear RNase P
+Homo sapiens microRNA mir-21
+Homo sapiens Small nucleolar RNA SNORD49
+Homo sapiens Small nucleolar RNA SNORA18
+Homo sapiens microRNA mir-652
+Homo sapiens Small nucleolar RNA SNORD71
+Homo sapiens U4atac minor spliceosomal RNA
+Homo sapiens Small nucleolar RNA U105B
+Homo sapiens microRNA mir-1225
+Homo sapiens microRNA mir-573
+Homo sapiens Small nucleolar RNA SNORA20
+Homo sapiens microRNA mir-1306
+Homo sapiens Small nucleolar RNA Z39
+Homo sapiens Y RNA
+Homo sapiens Small nucleolar RNA SNORA79
+Homo sapiens microRNA mir-920
+Homo sapiens microRNA mir-599
+Homo sapiens microRNA mir-767
+Homo sapiens microRNA mir-885
+Homo sapiens Small nucleolar RNA SNORD72
+Homo sapiens Small nucleolar RNA SNORD50
+Homo sapiens Small nucleolar RNA U3
+Homo sapiens microRNA mir-765
+Homo sapiens Small nucleolar RNA SNORA47
+Homo sapiens Small nucleolar RNA SNORA38
+Homo sapiens Small nucleolar RNA SNORA35
+Homo sapiens Small nucleolar RNA SNORD23
+Homo sapiens microRNA mir-138
+Homo sapiens microRNA mir-657
+Homo sapiens microRNA mir-583
+Homo sapiens microRNA mir-720
+Homo sapiens Heat shock protein 70 (Hsp70) internal ribosome entry site (IRES)
+Homo sapiens Small nucleolar RNA SNORD125
+Homo sapiens microRNA mir-544
+Homo sapiens microRNA mir-384
+Homo sapiens microRNA mir-1180
+Homo sapiens microRNA mir-339
+Homo sapiens U12 minor spliceosomal RNA
+Homo sapiens microRNA mir-378
+Homo sapiens Archaeal large subunit ribosomal RNA
+Homo sapiens microRNA mir-934
+Homo sapiens Small nucleolar RNA SNORD59
+Homo sapiens Small nucleolar RNA U2-19
+Homo sapiens microRNA mir-1249
+Homo sapiens microRNA mir-183
+Homo sapiens microRNA mir-654
+Homo sapiens mir-26 microRNA precursor family
+Homo sapiens microRNA mir-887
+Homo sapiens microRNA mir-708
+Homo sapiens microRNA mir-601
+Homo sapiens microRNA mir-648
+Homo sapiens microRNA mir-363
+Homo sapiens Small nucleolar RNA SNORD25
+Homo sapiens microRNA mir-1287
+Homo sapiens microRNA mir-96
+Homo sapiens microRNA mir-1251
+Homo sapiens mir-194 microRNA precursor family
+Homo sapiens microRNA mir-190
+Homo sapiens microRNA mir-1227
+Homo sapiens microRNA mir-542
+Homo sapiens microRNA mir-891
+Homo sapiens microRNA mir-302
+Homo sapiens Small nucleolar RNA SNORA12
+Homo sapiens Small nucleolar RNA SNORD126
+Homo sapiens U4 spliceosomal RNA
+Homo sapiens Small nucleolar RNA SNORD29
+Homo sapiens mir-15 microRNA precursor family
+Homo sapiens FGF-1 internal ribosome entry site (IRES)
+Homo sapiens microRNA mir-423
+Homo sapiens microRNA mir-611
+Homo sapiens Small nucleolar RNA ACA64
+Homo sapiens microRNA mir-612
+Homo sapiens microRNA mir-672
+Homo sapiens microRNA mir-569
+Homo sapiens Small Cajal body specific RNA 15
+Homo sapiens Small nucleolar RNA SNORA36 family
+Homo sapiens Small nucleolar RNA SNORD57
+Homo sapiens mir-92 microRNA precursor family
+Homo sapiens Small Cajal body specific RNA 16
+Homo sapiens microRNA mir-490
+Homo sapiens microRNA mir-1296
+Homo sapiens microRNA mir-1265
+Homo sapiens microRNA mir-802
+Homo sapiens mir-196 microRNA precursor family
+Homo sapiens microRNA mir-146
+Homo sapiens mir-8/mir-141/mir-200 microRNA precursor family
+Homo sapiens Small nucleolar RNA SNORA84
+Homo sapiens Small nucleolar RNA SNORD109A
+Homo sapiens microRNA mir-764
+Homo sapiens microRNA mir-197
+Homo sapiens Small nucleolar RNA SNORD45
+Homo sapiens microRNA mir-497
+Homo sapiens snaR-A sRNA
+Homo sapiens Small nucleolar RNA SNORD73
+Homo sapiens microRNA mir-326
+Homo sapiens Small nucleolar RNA SNORA42/SNORA80 family
+Homo sapiens Z6 small nucleolar RNA
+Homo sapiens Small nucleolar RNA SNORD91 family
+Homo sapiens Small nucleolar RNA SNORA8
+Homo sapiens Small nucleolar RNA SNORD65
+Homo sapiens microRNA MIR1846
+Homo sapiens Small nucleolar RNA SNORA31
+Homo sapiens Small nucleolar RNA U83B
+Homo sapiens microRNA mir-484
+Homo sapiens Small nucleolar RNA ZL63
+Homo sapiens U6atac minor spliceosomal RNA
+Homo sapiens Small nucleolar RNA ZL116
+Homo sapiens microRNA mir-640
+Homo sapiens Small nucleolar RNA SNORD27
+Homo sapiens microRNA mir-28
+Homo sapiens c-sis internal ribosome entry site (IRES)
+Homo sapiens Small nucleolar RNA SNORA63
+Homo sapiens microRNA mir-328
+Homo sapiens Insulin-like growth factor II IRES
+Homo sapiens Small nucleolar RNA SNORD111
+Homo sapiens microRNA mir-3180
+Homo sapiens Small nucleolar RNA SNORD89
+Homo sapiens Small Cajal body specific RNA 24
+Homo sapiens microRNA mir-185
+Homo sapiens microRNA MIR811
+Homo sapiens microRNA mir-877
+Homo sapiens MALAT1-associated small cytoplasmic RNA/MEN beta RNA
+Homo sapiens microRNA mir-668
+Homo sapiens Connexin-43 internal ribosome entry site (IRES)
+Homo sapiens Small nucleolar RNA SNORD110
+Homo sapiens Small Cajal body specific RNA 1
+Homo sapiens microRNA mir-449
+Homo sapiens Small nucleolar RNA SNORD31
+Homo sapiens microRNA mir-375
+Homo sapiens microRNA mir-193
+Homo sapiens Small nucleolar RNA SNORD96 family
+Homo sapiens Small nucleolar RNA SNORA7
+Homo sapiens microRNA mir-128
+Homo sapiens microRNA mir-454
+Homo sapiens lin-4 microRNA precursor
+mature
+Homo sapiens Mitochondrial DNA control region secondary structure A
+Homo sapiens Small nucleolar RNA SNORD97
+Homo sapiens mir-130 microRNA precursor family
+Homo sapiens microRNA mir-32
+Homo sapiens microRNA mir-636
+Homo sapiens microRNA mir-563
+Homo sapiens Small nucleolar RNA SNORA43
+Homo sapiens microRNA mir-450
+Homo sapiens microRNA mir-744
+Homo sapiens microRNA mir-1237
+Homo sapiens microRNA mir-25
+Homo sapiens Small nucleolar RNA SNORA11
+Homo sapiens microRNA mir-492
+Homo sapiens microRNA mir-653
+Homo sapiens Small nucleolar RNA SNORD2
+Homo sapiens microRNA mir-624
+Homo sapiens mir-101 microRNA precursor family
+Homo sapiens Eukaryotic large subunit ribosomal RNA
+Homo sapiens mir-129 microRNA precursor family
+Homo sapiens microRNA mir-320
+Homo sapiens small Cajal body-specific RNA 17
+Homo sapiens Small nucleolar RNA SNORD100
+Homo sapiens Small nucleolar RNA SNORA24
+Homo sapiens Small nucleolar RNA SNORA28
+Homo sapiens microRNA mir-214
+Homo sapiens microRNA mir-126
+Homo sapiens microRNA mir-661
+Homo sapiens microRNA mir-150
+Homo sapiens microRNA mir-650
+Homo sapiens microRNA mir-346
+Homo sapiens microRNA mir-134
+Homo sapiens Small nucleolar RNA SNORD66
+Homo sapiens Small nucleolar RNA SNORD24
+Home sapiens U1 spliceosomal RNA
+Homo sapiens microRNA mir-556
+Homo sapiens Small nucleolar RNA SNORA15
+Homo sapiens microRNA mir-557
+Homo sapiens Small nucleolar RNA SNORA81
+Homo sapiens microRNA mir-452
+Homo sapiens Vault RNA
+Homo sapiens microRNA mir-628
+Homo sapiens 7SK RNA
+Homo sapiens Small nucleolar RNA SNORD115
+Homo sapiens Small nucleolar RNA SNORA2/SNORA34 family
+Homo sapiens microRNA mir-692
+Homo sapiens microRNA mir-941
+Homo sapiens microRNA mir-586
+Homo sapiens microRNA mir-607
+Homo sapiens VA RNA
+Homo sapiens Small nucleolar RNA SNORD53/SNORD92
+Homo sapiens RNase MRP
+Homo sapiens microRNA mir-145
+Homo sapiens microRNA mir-643
+Homo sapiens microRNA mir-876
+Homo sapiens microRNA mir-1183
+Homo sapiens Small nucleolar RNA SNORD56
+Homo sapiens microRNA mir-663
+Homo sapiens Small nucleolar RNA SNORD123
+Homo sapiens microRNA mir-575
+Homo sapiens Small nucleolar RNA U54
+Homo sapiens microRNA mir-425
+Homo sapiens Small nucleolar RNA SNORA54
+Homo sapiens microRNA mir-615
+Homo sapiens Vascular endothelial growth factor (VEGF) IRES A
+Homo sapiens microRNA mir-188
+Homo sapiens Small nucleolar RNA SNORD11B
+Homo sapiens microRNA mir-577
+Homo sapiens let-7 microRNA precursor
+Homo sapiens microRNA mir-1827
+Homo sapiens Small nucleolar RNA SNORA41
+Homo sapiens Mammalian CPEB3 ribozyme
+Homo sapiens Small nucleolar RNA SNORA1
+Homo sapiens Small nucleolar RNA SNORD107
+Homo sapiens Small nucleolar RNA SNORA17
+Homo sapiens microRNA mir-217
+Homo sapiens microRNA mir-940
+Homo sapiens microRNA mir-1275
+Homo sapiens Small nucleolar RNA SNORA52
+Homo sapiens Small nucleolar RNA SNORD88
+Homo sapiens microRNA mir-684
+Homo sapiens Small nucleolar RNA SNORD124
+Homo sapiens microRNA mir-922
+Homo sapiens Small nucleolar RNA U85
+Homo sapiens Small nucleolar RNA SNORD26
+Homo sapiens microRNA mir-873
+Homo sapiens microRNA mir-1302
+Homo sapiens Small nucleolar RNA SNORD21
+Homo sapiens Z30 small nucleolar RNA
+Homo sapiens Small nucleolar RNA SNORA76
+Homo sapiens Small nucleolar RNA SNORD87
+Homo sapiens microRNA mir-939
+Homo sapiens microRNA mir-874
+Homo sapiens tRNA
+Homo sapiens Vertebrate telomerase RNA
+Homo sapiens Small nucleolar RNA SNORA26
+Homo sapiens Small nucleolar RNA MBII-202
+Homo sapiens microRNA mir-760
+Homo sapiens microRNA mir-651
+Homo sapiens Small nucleolar RNA SNORA48
+Homo sapiens Small nucleolar RNA SNORA56
+Homo sapiens microRNA mir-184
+Homo sapiens microRNA mir-367

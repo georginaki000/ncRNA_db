@@ -1,0 +1,20 @@
+CREATE TABLE `genes` (
+        `gene_stable_id` varchar(50) NOT NULL,
+        `protein_stable_id` varchar(50),
+        `transcript_stable_id` varchar(50),
+        `gene_description` varchar(255),
+        `gene_end` varchar(50),
+        `gene_start` varchar(50),
+        `strand` TINYINT,
+        `transcript_start` varchar(50),
+        `gencode_basic_annotation` varchar(255),
+        `refseq_match_transcript` varchar(50),
+        `gene_name` varchar(255),
+        `GO_term_accession` varchar(50),
+        `ensemble_protein_family_id` varchar(50),
+PRIMARY KEY (`gene_stable_id`)
+) ENGINE=INNODB
+        
+
+
+

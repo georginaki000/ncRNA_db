@@ -1,0 +1,475 @@
+Homo sapiens microRNA mir-590	hairpin
+Homo sapiens microRNA mir-500	hairpin
+Homo sapiens microRNA mir-361	hairpin
+Homo sapiens microRNA mir-1207	hairpin
+Homo sapiens Small nucleolar RNA SNORD37	snoRNA
+Homo sapiens Small nucleolar RNA SNORD51	snoRNA
+Homo sapiens microRNA mir-589	hairpin
+Homo sapiens microRNA mir-584	hairpin
+Homo sapiens microRNA mir-1280	hairpin
+Homo sapiens Small nucleolar RNA ZL8	snoRNA
+Homo sapiens Small nucleolar RNA SNORD15	snoRNA
+Homo sapiens microRNA mir-33	hairpin
+Homo sapiens microRNA mir-182	hairpin
+Homo sapiens Small nucleolar RNA SNORA53	snoRNA
+Homo sapiens Small nucleolar RNA SNORA65	snoRNA
+Homo sapiens microRNA mir-938	hairpin
+Homo sapiens Small nucleolar RNA SNORD69	snoRNA
+Homo sapiens microRNA mir-770	hairpin
+Homo sapiens Small nucleolar RNA SNORD121A	snoRNA
+Homo sapiens Small nucleolar RNA SNORD5	snoRNA
+Homo sapiens microRNA mir-761	hairpin
+Homo sapiens microRNA mir-155	hairpin
+Homo sapiens Small nucleolar RNA SNORA30/SNORA37 family	snoRNA
+Homo sapiens microRNA mir-207	hairpin
+Homo sapiens microRNA mir-335	hairpin
+Homo sapiens microRNA mir-322	hairpin
+Homo sapiens Small nucleolar RNA SNORA68	snoRNA
+Homo sapiens mir-29 microRNA precursor	hairpin
+Homo sapiens microRNA mir-633	hairpin
+Home sapiens tRNA	tRNA
+Homo sapiens Small nucleolar RNA U2-30	snoRNA
+Homo sapiens Selenocysteine transfer RNA	tRNA
+Homo sapiens microRNA mir-576	hairpin
+Homo sapiens microRNA mir-149	hairpin
+Homo sapiens microRNA mir-340	hairpin
+Homo sapiens Small nucleolar RNA SNORD67	snoRNA
+Homo sapiens Small nucleolar RNA SNORA22	snoRNA
+Homo sapiens Small nucleolar RNA SNORD28	snoRNA
+Home sapiens 5S ribosomal RNA	rRNA
+Homo sapiens microRNA mir-298	hairpin
+Homo sapiens microRNA mir-671	hairpin
+Homo sapiens microRNA mir-22	hairpin
+Homo sapiens Small nucleolar RNA SNORD112	snoRNA
+Homo sapiens microRNA mir-1226	hairpin
+Homo sapiens microRNA mir-554	hairpin
+Homo sapiens microRNA mir-498	hairpin
+Homo sapiens microRNA mir-649	hairpin
+Homo sapiens microRNA mir-330	hairpin
+Homo sapiens Small nucleolar RNA SNORA55	snoRNA
+Homo sapiens microRNA mir-221	hairpin
+Homo sapiens Small nucleolar RNA SNORD47	snoRNA
+Homo sapiens Small nucleolar RNA U13	snoRNA
+Homo sapiens microRNA mir-582	hairpin
+Homo sapiens microRNA mir-600	hairpin
+Homo sapiens Small nucleolar RNA SNORA64/SNORA10 family	snoRNA
+Homo sapiens microRNA mir-597	hairpin
+Homo sapiens Small nucleolar RNA SNORD93	snoRNA
+Homo sapiens Small nucleolar RNA SNORD99	snoRNA
+Homo sapiens microRNA mir-541	hairpin
+Homo sapiens Small nucleolar RNA SNORA14	snoRNA
+Homo sapiens Small nucleolar RNA SNORD17	snoRNA
+Homo sapiens microRNA mir-140	hairpin
+Homo sapiens Small nucleolar RNA snR60/Z15/Z230/Z193/J17	snoRNA
+Homo sapiens microRNA mir-331	hairpin
+Homo sapiens Small nucleolar RNA SNORD108	snoRNA
+Homo sapiens microRNA mir-572	hairpin
+Homo sapiens microRNA mir-581	hairpin
+Homo sapiens Small nucleolar RNA SNORA25	snoRNA
+Homo sapiens Small nucleolar RNA SNORA75	snoRNA
+Homo sapiens microRNA mir-296	hairpin
+Homo sapiens microRNA mir-621	hairpin
+Homo sapiens microRNA mir-374	hairpin
+Homo sapiens microRNA mir-1208	hairpin
+Homo sapiens microRNA mir-350	hairpin
+Homo sapiens microRNA mir-23	hairpin
+Homo sapiens microRNA mir-665	hairpin
+Homo sapiens microRNA mir-937	hairpin
+Homo sapiens microRNA mir-711	hairpin
+Homo sapiens mir-17 microRNA precursor family	hairpin
+Homo sapiens mir-34 microRNA precursor family	hairpin
+Homo sapiens Small nucleolar RNA ZL2	snoRNA
+Homo sapiens mir-218 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-486	hairpin
+Homo sapiens microRNA mir-638	hairpin
+Homo sapiens microRNA mir-580	hairpin
+Homo sapiens microRNA mir-205	hairpin
+Homo sapiens microRNA mir-204	hairpin
+Homo sapiens Small nucleolar RNA SNORA61	snoRNA
+Homo sapiens microRNA mir-609	hairpin
+Homo sapiens microRNA mir-1912	hairpin
+Homo sapiens microRNA mir-552	hairpin
+Homo sapiens Small nucleolar RNA SNORD48	snoRNA
+Homo sapiens microRNA mir-BART3	hairpin
+Homo sapiens Small nucleolar RNA SNORA21	snoRNA
+Homo sapiens Small nucleolar RNA SNORD70	snoRNA
+Homo sapiens Small nucleolar RNA SNORD19	snoRNA
+Homo sapiens Small nucleolar RNA SNORD77	snoRNA
+Homo sapiens U8 small nucleolar RNA	snoRNA
+Homo sapiens Small nucleolar RNA SNORD52	snoRNA
+Homo sapiens Small nucleolar RNA SNORA74	snoRNA
+Homo sapiens microRNA mir-431	hairpin
+Homo sapiens microRNA mir-942	hairpin
+Homo sapiens microRNA mir-675	hairpin
+Homo sapiens microRNA mir-187	hairpin
+Homo sapiens Small nucleolar RNA SNORA44	snoRNA
+Homo sapiens microRNA mir-875	hairpin
+Homo sapiens microRNA mir-924	hairpin
+Homo sapiens Small nucleolar RNA U6-53/MBII-28	snoRNA
+Homo sapiens microRNA mir-370	hairpin
+Homo sapiens microRNA mir-198	hairpin
+Homo sapiens microRNA mir-132	hairpin
+Homo sapiens microRNA mir-142	hairpin
+Homo sapiens Small nucleolar RNA SNORD44	snoRNA
+Homo sapiens mir-2985-2 microRNA precursor	hairpin
+Homo sapiens Small nucleolar RNA SNORA58	snoRNA
+Homo sapiens microRNA mir-491	hairpin
+Homo sapiens Small nucleolar SNORD12/SNORD106	snoRNA
+Homo sapiens Small nucleolar RNA SNORA3/SNORA45 family	snoRNA
+Homo sapiens Small nucleolar RNA SNORA50	snoRNA
+Homo sapiens microRNA mir-299	hairpin
+Homo sapiens microRNA MIR480	hairpin
+Homo sapiens microRNA mir-223	hairpin
+Homo sapiens Small nucleolar RNA SNORA73 family	snoRNA
+Homo sapiens mir-19 microRNA precursor family	hairpin
+Homo sapiens Small nucleolar RNA U109	snoRNA
+Homo sapiens Small nucleolar RNA SNORA77	snoRNA
+hairpin	hairpin
+Homo sapiens Small nucleolar RNA SNORD90	snoRNA
+Homo sapiens mir-133 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-632	hairpin
+Homo sapiens microRNA mir-143	hairpin
+Homo sapiens microRNA MIR1122	hairpin
+Homo sapiens microRNA mir-432	hairpin
+Homo sapiens Small nucleolar RNA SNORA9	snoRNA
+Homo sapiens microRNA mir-127	hairpin
+Homo sapiens Small nucleolar RNA SNORA49	snoRNA
+Homo sapiens Small nucleolar RNA SNORD94	snoRNA
+Homo sapiens microRNA mir-644	hairpin
+Homo sapiens Small nucleolar RNA SNORD30	snoRNA
+Homo sapiens microRNA mir-506	hairpin
+Homo sapiens mir-181 microRNA precursor	hairpin
+Homo sapiens microRNA mir-412	hairpin
+Homo sapiens Small nucleolar RNA SNORA67	snoRNA
+Homo sapiens Small nucleolar RNA ACA59	snoRNA
+Homo sapiens microRNA mir-153	hairpin
+Homo sapiens mir-122 microRNA precursor	hairpin
+Homo sapiens Small nucleolar RNA U89	snoRNA
+Homo sapiens mir-219 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-1224	hairpin
+Homo sapiens Small nucleolar RNA SNORD74	snoRNA
+Homo sapiens mir-7 microRNA precursor	hairpin
+Homo sapiens microRNA mir-553	hairpin
+Homo sapiens microRNA mir-422	hairpin
+Homo sapiens microRNA mir-549	hairpin
+Homo sapiens microRNA mir-1255	hairpin
+Homo sapiens microRNA mir-337	hairpin
+Homo sapiens microRNA mir-574	hairpin
+Homo sapiens Small nucleolar RNA SNORA40	snoRNA
+Homo sapiens microRNA mir-27	hairpin
+Homo sapiens microRNA mir-136	hairpin
+Homo sapiens microRNA mir-210	hairpin
+Homo sapiens Small nucleolar RNA SNORA62/SNORA6 family	snoRNA
+Homo sapiens microRNA mir-662	hairpin
+Homo sapiens Small nucleolar RNA Z40	snoRNA
+Homo sapiens microRNA mir-550	hairpin
+Homo sapiens Small nucleolar RNA U82P	snoRNA
+Homo sapiens Small nucleolar RNA SNORD22	snoRNA
+Homo sapiens microRNA mir-504	hairpin
+Homo sapiens microRNA mir-345	hairpin
+Homo sapiens microRNA mir-489	hairpin
+Homo sapiens microRNA mir-31	hairpin
+Homo sapiens microRNA mir-154	hairpin
+Homo sapiens microRNA mir-936	hairpin
+Homo sapiens microRNA mir-203	hairpin
+Homo sapiens mir-148/mir-152 microRNA precursor family	hairpin
+Homo sapiens Small nucleolar RNA Z17	snoRNA
+Homo sapiens Small nucleolar RNA SNORA4	snoRNA
+Homo sapiens microRNA mir-551	hairpin
+Homo sapiens Small nucleolar RNA SNORA29	snoRNA
+Homo sapiens mir-135 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-604	hairpin
+Homo sapiens microRNA mir-186	hairpin
+Homo sapiens Small nucleolar RNA SNORA23	snoRNA
+Homo sapiens microRNA mir-618	hairpin
+Homo sapiens Small nucleolar RNA SNORD19B	snoRNA
+Homo sapiens microRNA mir-433	hairpin
+Homo sapiens Small nucleolar RNA SNORA27	snoRNA
+Homo sapiens microRNA mir-944	hairpin
+Homo sapiens microRNA mir-451	hairpin
+Homo sapiens microRNA mir-3179	hairpin
+Homo sapiens Small nucleolar RNA SNORA46	snoRNA
+Homo sapiens microRNA mir-448	hairpin
+Homo sapiens microRNA mir-208	hairpin
+Homo sapiens Small nucleolar RNA SNORD60	snoRNA
+Homo sapiens microRNA mir-505	hairpin
+Homo sapiens Small nucleolar RNA SNORD18	snoRNA
+Homo sapiens microRNA mir-1253	hairpin
+Homo sapiens microRNA mir-338	hairpin
+Homo sapiens microRNA mir-488	hairpin
+Homo sapiens Small nucleolar RNA SNORA13	snoRNA
+Homo sapiens microRNA mir-616	hairpin
+Homo sapiens microRNA mir-139	hairpin
+Homo sapiens Small nucleolar RNA SNORD104	snoRNA
+Homo sapiens microRNA mir-105	hairpin
+Homo sapiens microRNA mir-499	hairpin
+Homo sapiens Small nucleolar RNA SNORD10	snoRNA
+Homo sapiens microRNA mir-365	hairpin
+Homo sapiens Small nucleolar RNA SNORD36	snoRNA
+Homo sapiens microRNA mir-224	hairpin
+Homo sapiens Small nucleolar RNA SNORD11	snoRNA
+Homo sapiens microRNA mir-137	hairpin
+Homo sapiens microRNA mir-598	hairpin
+Homo sapiens microRNA mir-626	hairpin
+Homo sapiens microRNA mir-605	hairpin
+Homo sapiens Small nucleolar RNA SNORD127	snoRNA
+Homo sapiens Small nucleolar RNA SNORD14	snoRNA
+Homo sapiens microRNA mir-515	hairpin
+Homo sapiens microRNA mir-676	hairpin
+Homo sapiens Small nucleolar RNA SNORA71	snoRNA
+Homo sapiens Small nucleolar RNA SNORA69	snoRNA
+Homo sapiens Small nucleolar RNA ZL1	snoRNA
+Homo sapiens microRNA mir-558	hairpin
+trf	trf
+Homo sapiens microRNA mir-202	hairpin
+Homo sapiens microRNA mir-567	hairpin
+Homo sapiens microRNA mir-144	hairpin
+Homo sapiens microRNA mir-592	hairpin
+Homo sapiens mir-1 microRNA precursor family	hairpin
+Homo sapiens Small nucleolar RNA SNORA19	snoRNA
+Homo sapiens Small nucleolar RNA SNORD98	snoRNA
+Homo sapiens mir-124 microRNA precursor family	hairpin
+Homo sapiens Bacterial large subunit ribosomal RNA	rRNA
+Homo sapiens Eukaryotic small subunit ribosomal RNA	rRNA
+Homo sapiens microRNA mir-455	hairpin
+Homo sapiens microRNA mir-1307	hairpin
+Homo sapiens microRNA mir-147	hairpin
+Homo sapiens Small nucleolar RNA SNORD78	snoRNA
+Homo sapiens microRNA mir-1178	hairpin
+Homo sapiens microRNA mir-639	hairpin
+Homo sapiens microRNA mir-342	hairpin
+Homo sapiens microRNA mir-631	hairpin
+Homo sapiens microRNA mir-578	hairpin
+Homo sapiens microRNA mir-191	hairpin
+Homo sapiens Small nucleolar RNA SNORA33	snoRNA
+Homo sapiens microRNA mir-593	hairpin
+Homo sapiens microRNA mir-216	hairpin
+Home sapiens 5.8S ribosomal RNA	rRNA
+Homo sapiens microRNA mir-279	hairpin
+Homo sapiens microRNA mir-503	hairpin
+Homo sapiens Small nucleolar RNA SNORA32	snoRNA
+Homo sapiens Small nucleolar RNA SNORD75	snoRNA
+Homo sapiens microRNA mir-383	hairpin
+Homo sapiens microRNA mir-548	hairpin
+Homo sapiens microRNA mir-290	hairpin
+Homo sapiens Small nucleolar RNA SNORD41	snoRNA
+Homo sapiens mir-16 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-562	hairpin
+Homo sapiens Small nucleolar RNA SNORA51	snoRNA
+Homo sapiens microRNA mir-642	hairpin
+Homo sapiens Small nucleolar RNA SNORD86	snoRNA
+Homo sapiens Small nucleolar RNA SNORD61	snoRNA
+Homo sapiens mir-10 microRNA precursor family	hairpin
+Homo sapiens Small nucleolar RNA SNORA5	snoRNA
+Homo sapiens Small nucleolar RNA SNORD105	snoRNA
+Homo sapiens microRNA mir-21	hairpin
+Homo sapiens Small nucleolar RNA SNORD49	snoRNA
+Homo sapiens Small nucleolar RNA SNORA18	snoRNA
+Homo sapiens microRNA mir-652	hairpin
+Homo sapiens Small nucleolar RNA SNORD71	snoRNA
+Homo sapiens Small nucleolar RNA U105B	snoRNA
+Homo sapiens microRNA mir-1225	hairpin
+Homo sapiens microRNA mir-573	hairpin
+Homo sapiens Small nucleolar RNA SNORA20	snoRNA
+Homo sapiens microRNA mir-1306	hairpin
+Homo sapiens Small nucleolar RNA Z39	snoRNA
+Homo sapiens Small nucleolar RNA SNORA79	snoRNA
+Homo sapiens microRNA mir-920	hairpin
+Homo sapiens microRNA mir-599	hairpin
+Homo sapiens microRNA mir-767	hairpin
+Homo sapiens microRNA mir-885	hairpin
+Homo sapiens Small nucleolar RNA SNORD72	snoRNA
+Homo sapiens Small nucleolar RNA SNORD50	snoRNA
+Homo sapiens Small nucleolar RNA U3	snoRNA
+Homo sapiens microRNA mir-765	hairpin
+Homo sapiens Small nucleolar RNA SNORA47	snoRNA
+Homo sapiens Small nucleolar RNA SNORA38	snoRNA
+Homo sapiens Small nucleolar RNA SNORA35	snoRNA
+Homo sapiens Small nucleolar RNA SNORD23	snoRNA
+Homo sapiens microRNA mir-138	hairpin
+Homo sapiens microRNA mir-657	hairpin
+Homo sapiens microRNA mir-583	hairpin
+Homo sapiens microRNA mir-720	hairpin
+Homo sapiens Small nucleolar RNA SNORD125	snoRNA
+Homo sapiens microRNA mir-544	hairpin
+Homo sapiens microRNA mir-384	hairpin
+Homo sapiens microRNA mir-1180	hairpin
+Homo sapiens microRNA mir-339	hairpin
+Homo sapiens microRNA mir-378	hairpin
+Homo sapiens Archaeal large subunit ribosomal RNA	rRNA
+Homo sapiens microRNA mir-934	hairpin
+Homo sapiens Small nucleolar RNA SNORD59	snoRNA
+Homo sapiens Small nucleolar RNA U2-19	snoRNA
+Homo sapiens microRNA mir-1249	hairpin
+Homo sapiens microRNA mir-183	hairpin
+Homo sapiens microRNA mir-654	hairpin
+Homo sapiens mir-26 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-887	hairpin
+Homo sapiens microRNA mir-708	hairpin
+Homo sapiens microRNA mir-601	hairpin
+Homo sapiens microRNA mir-648	hairpin
+Homo sapiens microRNA mir-363	hairpin
+Homo sapiens Small nucleolar RNA SNORD25	snoRNA
+Homo sapiens microRNA mir-1287	hairpin
+Homo sapiens microRNA mir-96	hairpin
+Homo sapiens microRNA mir-1251	hairpin
+Homo sapiens mir-194 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-190	hairpin
+Homo sapiens microRNA mir-1227	hairpin
+Homo sapiens microRNA mir-542	hairpin
+Homo sapiens microRNA mir-891	hairpin
+Homo sapiens microRNA mir-302	hairpin
+Homo sapiens Small nucleolar RNA SNORA12	snoRNA
+Homo sapiens Small nucleolar RNA SNORD126	snoRNA
+Homo sapiens Small nucleolar RNA SNORD29	snoRNA
+Homo sapiens mir-15 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-423	hairpin
+Homo sapiens microRNA mir-611	hairpin
+Homo sapiens Small nucleolar RNA ACA64	snoRNA
+Homo sapiens microRNA mir-612	hairpin
+Homo sapiens microRNA mir-672	hairpin
+Homo sapiens microRNA mir-569	hairpin
+Homo sapiens Small nucleolar RNA SNORA36 family	snoRNA
+Homo sapiens Small nucleolar RNA SNORD57	snoRNA
+Homo sapiens mir-92 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-490	hairpin
+Homo sapiens microRNA mir-1296	hairpin
+Homo sapiens microRNA mir-1265	hairpin
+Homo sapiens microRNA mir-802	hairpin
+Homo sapiens mir-196 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-146	hairpin
+Homo sapiens mir-8/mir-141/mir-200 microRNA precursor family	hairpin
+Homo sapiens Small nucleolar RNA SNORA84	snoRNA
+Homo sapiens Small nucleolar RNA SNORD109A	snoRNA
+Homo sapiens microRNA mir-764	hairpin
+Homo sapiens microRNA mir-197	hairpin
+Homo sapiens Small nucleolar RNA SNORD45	snoRNA
+Homo sapiens microRNA mir-497	hairpin
+Homo sapiens Small nucleolar RNA SNORD73	snoRNA
+Homo sapiens microRNA mir-326	hairpin
+Homo sapiens Small nucleolar RNA SNORA42/SNORA80 family	snoRNA
+Homo sapiens Z6 small nucleolar RNA	snoRNA
+Homo sapiens Small nucleolar RNA SNORD91 family	snoRNA
+Homo sapiens Small nucleolar RNA SNORA8	snoRNA
+Homo sapiens Small nucleolar RNA SNORD65	snoRNA
+Homo sapiens microRNA MIR1846	hairpin
+Homo sapiens Small nucleolar RNA SNORA31	snoRNA
+Homo sapiens Small nucleolar RNA U83B	snoRNA
+Homo sapiens microRNA mir-484	hairpin
+Homo sapiens Small nucleolar RNA ZL63	snoRNA
+Homo sapiens Small nucleolar RNA ZL116	snoRNA
+Homo sapiens microRNA mir-640	hairpin
+Homo sapiens Small nucleolar RNA SNORD27	snoRNA
+Homo sapiens microRNA mir-28	hairpin
+Homo sapiens Small nucleolar RNA SNORA63	snoRNA
+Homo sapiens microRNA mir-328	hairpin
+Homo sapiens Small nucleolar RNA SNORD111	snoRNA
+Homo sapiens microRNA mir-3180	hairpin
+Homo sapiens Small nucleolar RNA SNORD89	snoRNA
+Homo sapiens microRNA mir-185	hairpin
+Homo sapiens microRNA MIR811	hairpin
+Homo sapiens microRNA mir-877	hairpin
+Homo sapiens microRNA mir-668	hairpin
+Homo sapiens Small nucleolar RNA SNORD110	snoRNA
+Homo sapiens microRNA mir-449	hairpin
+Homo sapiens Small nucleolar RNA SNORD31	snoRNA
+Homo sapiens microRNA mir-375	hairpin
+Homo sapiens microRNA mir-193	hairpin
+Homo sapiens Small nucleolar RNA SNORD96 family	snoRNA
+Homo sapiens Small nucleolar RNA SNORA7	snoRNA
+Homo sapiens microRNA mir-128	hairpin
+Homo sapiens microRNA mir-454	hairpin
+Homo sapiens lin-4 microRNA precursor	hairpin
+mature	mature
+Homo sapiens Small nucleolar RNA SNORD97	snoRNA
+Homo sapiens mir-130 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-32	hairpin
+Homo sapiens microRNA mir-636	hairpin
+Homo sapiens microRNA mir-563	hairpin
+Homo sapiens Small nucleolar RNA SNORA43	snoRNA
+Homo sapiens microRNA mir-450	hairpin
+Homo sapiens microRNA mir-744	hairpin
+Homo sapiens microRNA mir-1237	hairpin
+Homo sapiens microRNA mir-25	hairpin
+Homo sapiens Small nucleolar RNA SNORA11	snoRNA
+Homo sapiens microRNA mir-492	hairpin
+Homo sapiens microRNA mir-653	hairpin
+Homo sapiens Small nucleolar RNA SNORD2	snoRNA
+Homo sapiens microRNA mir-624	hairpin
+Homo sapiens mir-101 microRNA precursor family	hairpin
+Homo sapiens Eukaryotic large subunit ribosomal RNA	rRNA
+Homo sapiens mir-129 microRNA precursor family	hairpin
+Homo sapiens microRNA mir-320	hairpin
+Homo sapiens Small nucleolar RNA SNORD100	snoRNA
+Homo sapiens Small nucleolar RNA SNORA24	snoRNA
+Homo sapiens Small nucleolar RNA SNORA28	snoRNA
+Homo sapiens microRNA mir-214	hairpin
+Homo sapiens microRNA mir-126	hairpin
+Homo sapiens microRNA mir-661	hairpin
+Homo sapiens microRNA mir-150	hairpin
+Homo sapiens microRNA mir-650	hairpin
+Homo sapiens microRNA mir-346	hairpin
+Homo sapiens microRNA mir-134	hairpin
+Homo sapiens Small nucleolar RNA SNORD66	snoRNA
+Homo sapiens Small nucleolar RNA SNORD24	snoRNA
+Homo sapiens microRNA mir-556	hairpin
+Homo sapiens Small nucleolar RNA SNORA15	snoRNA
+Homo sapiens microRNA mir-557	hairpin
+Homo sapiens Small nucleolar RNA SNORA81	snoRNA
+Homo sapiens microRNA mir-452	hairpin
+Homo sapiens microRNA mir-628	hairpin
+Homo sapiens Small nucleolar RNA SNORD115	snoRNA
+Homo sapiens Small nucleolar RNA SNORA2/SNORA34 family	snoRNA
+Homo sapiens microRNA mir-692	hairpin
+Homo sapiens microRNA mir-941	hairpin
+Homo sapiens microRNA mir-586	hairpin
+Homo sapiens microRNA mir-607	hairpin
+Homo sapiens Small nucleolar RNA SNORD53/SNORD92	snoRNA
+Homo sapiens microRNA mir-145	hairpin
+Homo sapiens microRNA mir-643	hairpin
+Homo sapiens microRNA mir-876	hairpin
+Homo sapiens microRNA mir-1183	hairpin
+Homo sapiens Small nucleolar RNA SNORD56	snoRNA
+Homo sapiens microRNA mir-663	hairpin
+Homo sapiens Small nucleolar RNA SNORD123	snoRNA
+Homo sapiens microRNA mir-575	hairpin
+Homo sapiens Small nucleolar RNA U54	snoRNA
+Homo sapiens microRNA mir-425	hairpin
+Homo sapiens Small nucleolar RNA SNORA54	snoRNA
+Homo sapiens microRNA mir-615	hairpin
+Homo sapiens microRNA mir-188	hairpin
+Homo sapiens Small nucleolar RNA SNORD11B	snoRNA
+Homo sapiens microRNA mir-577	hairpin
+Homo sapiens let-7 microRNA precursor	hairpin
+Homo sapiens microRNA mir-1827	hairpin
+Homo sapiens Small nucleolar RNA SNORA41	snoRNA
+Homo sapiens Small nucleolar RNA SNORA1	snoRNA
+Homo sapiens Small nucleolar RNA SNORD107	snoRNA
+Homo sapiens Small nucleolar RNA SNORA17	snoRNA
+Homo sapiens microRNA mir-217	hairpin
+Homo sapiens microRNA mir-940	hairpin
+Homo sapiens microRNA mir-1275	hairpin
+Homo sapiens Small nucleolar RNA SNORA52	snoRNA
+Homo sapiens Small nucleolar RNA SNORD88	snoRNA
+Homo sapiens microRNA mir-684	hairpin
+Homo sapiens Small nucleolar RNA SNORD124	snoRNA
+Homo sapiens microRNA mir-922	hairpin
+Homo sapiens Small nucleolar RNA U85	snoRNA
+Homo sapiens Small nucleolar RNA SNORD26	snoRNA
+Homo sapiens microRNA mir-873	hairpin
+Homo sapiens microRNA mir-1302	hairpin
+Homo sapiens Small nucleolar RNA SNORD21	snoRNA
+Homo sapiens Z30 small nucleolar RNA	snoRNA
+Homo sapiens Small nucleolar RNA SNORA76	snoRNA
+Homo sapiens Small nucleolar RNA SNORD87	snoRNA
+Homo sapiens microRNA mir-939	hairpin
+Homo sapiens microRNA mir-874	hairpin
+Homo sapiens tRNA	tRNA
+Homo sapiens Small nucleolar RNA SNORA26	snoRNA
+Homo sapiens Small nucleolar RNA MBII-202	snoRNA
+Homo sapiens microRNA mir-760	hairpin
+Homo sapiens microRNA mir-651	hairpin
+Homo sapiens Small nucleolar RNA SNORA48	snoRNA
+Homo sapiens Small nucleolar RNA SNORA56	snoRNA
+Homo sapiens microRNA mir-184	hairpin
+Homo sapiens microRNA mir-367	hairpin
